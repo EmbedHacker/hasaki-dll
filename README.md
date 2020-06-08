@@ -20,13 +20,13 @@ As shown below:
 
 It has the following advantages:
 
--Supports the POSIX standard **libdl API**, similar to using the **dlopen function** to load a dynamic library into memory (and parse some of the symbol information), by this dynamic library (via the **dlsym function **) Provide corresponding function operation set
+- upports the POSIX standard **libdl API**, similar to using the **dlopen function** to load a dynamic library into memory (and parse some of the symbol information), by this dynamic library (via the **dlsym function **) Provide corresponding function operation set
 
--Abandon the obscure and complicated mechanism of the dynamic linker under Gnu/Linux system, and re-implement it in an intuitive, concise and elegant way
+- Abandon the obscure and complicated mechanism of the dynamic linker under Gnu/Linux system, and re-implement it in an intuitive, concise and elegant way
 
--Compatible with X86-64/ARM platform, no need to modify any configuration file, just use gcc compiler or cross compiler to compile
+- ompatible with X86-64/ARM platform, no need to modify any configuration file, just use gcc compiler or cross compiler to compile
 
--Provide detailed program documentation, just put in a little patience, hardly worry about not reading
+- Provide detailed program documentation, just put in a little patience, hardly worry about not reading
 
 ![](picture/all.png)
 
@@ -56,11 +56,11 @@ If all goes well, you will get the following execution result:
 This is the first version code of this project and the most suitable version code for getting started to understand the dynamic connector.
 The functions of the following dynamic connectors will be iterated successively according to the actual situation:
 
--Late binding (PLT)
+- Late binding (PLT)
 
--Dynamic linker bootstrapping
+- Dynamic linker bootstrapping
 
--Global symbol intervention for shared objects
+- Global symbol intervention for shared objects
 
 
 The following is the relevant document for the knowledge compiled for the project. If you have not studied the ELF file format before, please read it from the beginning:
