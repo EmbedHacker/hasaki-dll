@@ -1,6 +1,7 @@
 
 # ELF文件格式入门
 
+**本文档内容无需死记硬背，理解相关概念即可，分析代码遇到问题时查阅即可**
 ## 简介
 
 可执行链接格式(Executable and Linking Format)最初是由 UNIX 系统实验室(UNIX System Laboratories，USL)开发并发布的，作为应用程序二进制接口(Application Binary Interface，ABI)的一部分。工具接口标准(Tool Interface Standards，TIS)委员会将还 在发展的 ELF 标准选作为一种可移植的目标文件格式，可以在 32 位 Intel 体系结构上的 很多操作系统中使用。
