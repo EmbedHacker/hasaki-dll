@@ -65,13 +65,13 @@ The functions of the following dynamic connectors will be iterated successively 
 
 The following is the relevant document for the knowledge compiled for the project. If you have not studied the ELF file format before, please read it from the beginning:
 
-(1). [Introduction to ELF file format](./en_doc/ELF_file_format_intro.md)
+(1). [Introduction to ELF file format](./En_doc/ELF_file_format_intro.md)
 
-(2). [Principles of Shared Library Design](./en_doc/Principles_of_Shared_Library_Design.md)
+(2). [Principles of Shared Library Design](./En_doc/Principles_of_Shared_Library_Design.md)
 
-(3). [Principle of dynamically loading shared libraries](./en_doc/loading_shared_libraries.md)
+(3). [Principle of dynamically loading shared libraries](./En_doc/loading_shared_libraries.md)
 
-(4). [Test program analysis](./en_doc/test_program_analysis.md)
+(4). [Test program analysis](./En_doc/test_program_analysis.md)
 
 
 
