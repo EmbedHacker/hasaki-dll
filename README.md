@@ -41,7 +41,7 @@ Please make sure you have installed gcc/arm-gcc
     cd hasaki-dll
 3. One-click compile and run
     -x86-64 platform: make run
-    -ARM platform: make all CROSS_COMPILE=gcc-arm-linux-gnueabihf
+    -ARM platform: make all CROSS_COMPILE=arm-linux-gnueabihf-
     You can also manually compile and run
     make
     cd build

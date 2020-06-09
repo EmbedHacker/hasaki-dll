@@ -41,7 +41,7 @@ Linux平台下的一个安全、简洁的动态模块加载器，其代码实现
     cd hasaki-dll
 3. 一键编译并运行
     -  x86-64平台：make run
-    -  ARM平台：make all CROSS_COMPILE=gcc-arm-linux-gnueabihf
+    -  ARM平台：make all CROSS_COMPILE=arm-linux-gnueabihf-
     也可以手动编译运行
     make
     cd build
