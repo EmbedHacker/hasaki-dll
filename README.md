@@ -1,4 +1,4 @@
-[中文说明](./doc/Ch_REMEAD.md)
+[中文](./doc/Ch_REMEAD.md) | [English](./README.md)
 
 # Implementation of dynamic module loader
 

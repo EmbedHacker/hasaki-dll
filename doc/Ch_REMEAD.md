@@ -1,4 +1,4 @@
-[English README](../README.md)
+[中文](./Ch_REMEAD.md) | [English](../README.md)
 
 # 动态模块加载器的实现
 
